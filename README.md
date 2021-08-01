@@ -9,7 +9,7 @@
 **※ビルドしたゲームデータはUnityプロジェクトのアセットデータ(おそらくmeta情報)の破損によりビルドが出来ないので申し訳ありませんが**~~紹介動画~~**かUnityプロジェクトを見て頂くようお願い致します。**
 
 ## Unityプロジェクト
-1 Unityプロジェクトは「UnityGame/UnityProject/」のSprout_GithubファルダをUnityで開くとプロジェクトを読み込めます。
+1 Unityプロジェクトは UnityGame/UnityProject 配下のSprout_GithubファルダをUnityで開くとプロジェクトを読み込めます。
 
 2 プロジェクトを読み込みましたらSceneファイルのTitleSceneを開くことでゲームのプレイ準備は整います。
 
