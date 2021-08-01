@@ -11,7 +11,7 @@
 ## Unityプロジェクト
 1 Unityプロジェクトは UnityGame/UnityProject 配下のSprout_GithubファルダをUnityで開くとプロジェクトを読み込めます。
 
-2 プロジェクトを読み込みましたらSceneファイルのTitleSceneを開くことでゲームのプレイ準備は整います。
+2 プロジェクトを読み込みましたら Assets/Scene ファイルのTitleSceneを開くことでゲームのプレイ準備は整います。
 
 **ゲームを開始するとセーブデータファイルがPC(Application.persistentDataPath配下)に作成されます。** 詳しいファイルパスはゲームプレイ中にPキーを長押しすることで見ることが出来ます。
 
