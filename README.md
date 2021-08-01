@@ -10,3 +10,6 @@
 
 ## Unityプロジェクト
 Unityプロジェクトは「UnityGame/UnityProject/」のSprout_GithubファルダをUnityで開くとプロジェクトを読み込めます。
+
+## 動画
+Githubにプッシュすると何故か動画データが破損してしまうためOneDriveの方からダウンロードや視聴していただくようお願い致します。
